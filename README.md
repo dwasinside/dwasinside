@@ -1,4 +1,4 @@
-# Hi there, I'm Alexandr Kizlyak 👋
+# Hi there, I'm Alexandr Kyzliak 👋
 
 ![Welcome](https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif?cid=ecf05e47bjhfto5ttrmcyvphgllelc04d1c9nsx4v8gwjvic&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
