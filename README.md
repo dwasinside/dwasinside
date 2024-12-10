@@ -13,6 +13,10 @@ I'm a **Senior Javascript Engineer** with a passion for creating seamless and in
 
 Here are some of the tools and technologies I work with:
 
+<div style="display:flex;">
+<p>1</p>
+<p>2</p>
+</div>
 <img src="https://camo.githubusercontent.com/e1784ce9f67450bbb344206d1e05579cf4c835b6e84add8e63d1c19b072e7aab/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313236302f312a2d744f6c644562666a696a786e3956715a65554c71672e676966"  height="100" />
 <img src="https://taiseisigyo.com/img/loading.gif"  height="100" />
 <img src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952mcl2azw36ubs5r3oukrqdvky04xanm63tk63apgy&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  height="100" />
