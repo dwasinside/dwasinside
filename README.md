@@ -13,14 +13,14 @@ I'm a **Senior Javascript Engineer** with a passion for creating seamless and in
 
 Here are some of the tools and technologies I work with:
 
-<img src="https://camo.githubusercontent.com/e1784ce9f67450bbb344206d1e05579cf4c835b6e84add8e63d1c19b072e7aab/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313236302f312a2d744f6c644562666a696a786e3956715a65554c71672e676966" width="100" height="100" />
-<img src="https://taiseisigyo.com/img/loading.gif" width="100" height="100" />
-<img src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952mcl2azw36ubs5r3oukrqdvky04xanm63tk63apgy&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="100" height="100" />
-<img src="https://www.staffworx.co.uk/wp-content/uploads/2021/09/nextjs-gif.gif" width="100" height="100" />
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" height="100" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="100" height="100" />
-<img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/postgresql.gif" width="100" height="100" />
-<img src="https://media.licdn.com/dms/image/C4D12AQEpy7KmUJiOEQ/article-cover_image-shrink_600_2000/0/1620943137026?e=2147483647&v=beta&t=rA6VwMYyQzo_gHm3E7hiSlMfPKYwx7yMeG0DGFdc9M0" width="100" height="100" />
+<img src="https://camo.githubusercontent.com/e1784ce9f67450bbb344206d1e05579cf4c835b6e84add8e63d1c19b072e7aab/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313236302f312a2d744f6c644562666a696a786e3956715a65554c71672e676966"  height="100" />
+<img src="https://taiseisigyo.com/img/loading.gif"  height="100" />
+<img src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952mcl2azw36ubs5r3oukrqdvky04xanm63tk63apgy&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  height="100" />
+<img src="https://www.staffworx.co.uk/wp-content/uploads/2021/09/nextjs-gif.gif"  height="100" />
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"  height="100" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg"  height="100" />
+<img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/postgresql.gif"  height="100" />
+<img src="https://media.licdn.com/dms/image/C4D12AQEpy7KmUJiOEQ/article-cover_image-shrink_600_2000/0/1620943137026?e=2147483647&v=beta&t=rA6VwMYyQzo_gHm3E7hiSlMfPKYwx7yMeG0DGFdc9M0"  height="100" />
 
 **Frameworks & Libraries:**
 - React.js & React Native (CLI & Expo)
