@@ -61,7 +61,7 @@ Here are some of the exciting projects I've worked on:
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dwasinside&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dwasinside&layout=compact&theme=dark)
 
 ---
 
