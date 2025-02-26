@@ -1,14 +1,3 @@
-# Hi there, I'm Alexandr Kyzliak 👋
-
-![Welcome](https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif?cid=ecf05e47bjhfto5ttrmcyvphgllelc04d1c9nsx4v8gwjvic&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
-
-## 🌟 About Me
-
-I'm a **Senior Javascript Engineer** with a passion for creating seamless and intuitive web applications. I specialize in front-end and back-end development using modern JavaScript frameworks and technologies.
-
----
-
 ## 🛠️ Technologies & Tools
 
 Here are some of the tools and technologies I work with:
