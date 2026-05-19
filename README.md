@@ -21,7 +21,6 @@ const dwasinside = {
   focus:      ["Web", "Mobile", "Cloud"],
   languages:  ["TypeScript", "JavaScript", "SQL"],
   currently:  ["Microservices w/ NestJS", "SwiftUI", "AWS Lambda"],
-  funFact:    "I refactor code before I fully understand the problem 🙃",
 };
 ```
 
